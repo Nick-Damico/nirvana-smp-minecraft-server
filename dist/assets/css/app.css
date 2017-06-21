@@ -455,11 +455,11 @@ ul {
 =================================== */
 @font-face {
   font-family: 'icomoon';
-  src:url('../icons/icomoon.eat');
-  src:url('../icons/icomoon.eat?#iefix') format('embedded-opentype'),
-    url('../icons/icomoon.woff') format('woff'),
-    url('../icons/icomoon.ttf') format('truetype'),
-    url('../icons/icomoon.svg#icomoon') format('svg');
+  src:url('../img/icons/icomoon.eat');
+  src:url('../img/icons/icomoon.eat?#iefix') format('embedded-opentype'),
+    url('../img/icons/icomoon.woff') format('woff'),
+    url('../img/icons/icomoon.ttf') format('truetype'),
+    url('../img/icons/icomoon.svg#icomoon') format('svg');
 }
 
 
